@@ -32,4 +32,4 @@ As a first step, I cleaned the dataset to make it ready for the machine learning
 
 Following the data cleaning process, I trained various machine learning models included in sklearn t predict diamond prices. I used linear regression, random forests, grid search and gradient boosting. Work and results are summarized in the following slide:
 
-<img src="output/summary_slide.png">
+<img src="output/summary_slide_readme.png">
